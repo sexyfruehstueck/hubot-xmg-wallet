@@ -1,0 +1,37 @@
+{
+  "name": "xmg-wallet-bot",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Earl Ynibble <akumagamo@hotmail.com>",
+  "description": "A bot that can manage your XMG wallet",
+  "license" : "DWTFYW",
+  "dependencies": {
+    "hubot": "^3.1.1",
+    "jimp": "^0.4.0",
+    "qrcode-reader": "^1.0.4"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "HUBOT_SLACK_TOKEN=xoxb-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX ./bin/hubot --adapter slack"
+  },
+  "config": {
+    "wallet": {
+      "url": "http://WALLET_USERNAME_XXXXX:WALLET_PASSWORD_XXXXX@<IP-ADDRESS>:8232",
+      "passphrase": "XXXXXXXXXXXXXXXXX",
+      "account": "incoming",
+      "default_staking_seconds": 99999999
+    },
+    "coinmarketcap": {
+      "url": "https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest?symbol=XMG&convert=",
+      "header_name": "X-CMC_PRO_API_KEY",
+      "api_key": "API-KEY-FOR-COINMARKETCAP-XXXXXXXXXX"
+    },
+    "slack": {
+      "url": "https://slack.com/api/"
+    },
+    "qr_temp_folder": "/temp/",
+    "authorized_users": "[\"sexyfruehstueck\"]"
+  }
+}
