@@ -1,6 +1,6 @@
 # A Hubot BOT, that can manage your XMG Wallet
 ## Versionnumber 1.0.0 (2018-09-23)
-### _(Documentation last update 2018-09-23 14:00 CET)_  
+### _(Documentation last update 2018-09-23 20:15 CET)_  
 #### _Keywords: #hubot, #hubot-script, #xmg, #wallet, #slack, #coinmarketcap, #javascript_  
 
 A small Hubot Bot, that can be run on an Raspberry PI, so that you can manage your XMG wallet from your Smartphone.  
