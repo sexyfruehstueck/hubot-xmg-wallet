@@ -27,6 +27,7 @@ _Screenshot of Slack Chat with Walli the Bot_
 * replacing CoinMarketCap API with free CoinGecko API
 * create npm package
 * add mocha tests
+* Webfrontend - for the LAN
 
 ## Known Bugs
 * none
