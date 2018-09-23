@@ -14,7 +14,7 @@
     "node": "0.10.x"
   },
   "scripts": {
-    "start": "HUBOT_SLACK_TOKEN=xoxb-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX ./bin/hubot --adapter slack"
+    "start": "HUBOT_SLACK_TOKEN=xoxb-XXXXXXXXXX-XXXXXXXXXX-XXXXXXXXXX ./node_modules/.bin/hubot --name walli --adapter slack"
   },
   "config": {
     "wallet": {
