@@ -77,4 +77,4 @@ Link to the GitHub Repository
     +-- .gitignore
     +-- package.json        // configuration has to be added
     +-- readme.md           // this document
-    +-- LICENSE             // CC-BY-4.0
+    +-- LICENSE             // WTFPL
