@@ -1,5 +1,5 @@
 # A Hubot BOT, that can manage your XMG Wallet
-## Versionnumber 1.0.0 (2018-09-23)
+## Versionnumber v1.0.1 (2018-09-23)
 ### _(Documentation last update 2018-09-23 20:15 CET)_  
 #### _Keywords: #hubot, #hubot-script, #xmg, #wallet, #slack, #coinmarketcap, #javascript_  
 
