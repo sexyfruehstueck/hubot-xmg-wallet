@@ -15,8 +15,8 @@ _Screenshot of Slack Chat with Walli the Bot_
     * Receive XMG
     * LOCK Wallet
     * Start Staking
-    * QR Addresses
-    * QR send XMG To QR-Image
+    * create QR-Image of Addresse
+    * send XMG To Address in QR-Image
     * Get XMG Balance in (XMG, USD, EUR, BTC)
     * Get XMG Price in (USD, EUR, BTC)
     * Create new Addresses
